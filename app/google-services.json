@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "778875642719",
+    "firebase_url": "https://makitojiapp-default-rtdb.firebaseio.com",
+    "project_id": "makitojiapp",
+    "storage_bucket": "makitojiapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778875642719:android:b79a714d12754911b70cea",
+        "android_client_info": {
+          "package_name": "com.example.makitojiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsaAIqmeuRETTuzdhw13bmMJNDuMxzdqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
